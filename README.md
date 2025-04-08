@@ -77,7 +77,7 @@ This project focuses on **scalability** and **developer friendliness**:
 ## 🧪 Setup & Run Locally
 
 ```bash
-git clone https://github.com/your-username/drag-drop-builder.git
+git clone https://github.com/simbaig/drag-drop-app.git
 cd drag-drop-builder
 npm install
 npm run dev
